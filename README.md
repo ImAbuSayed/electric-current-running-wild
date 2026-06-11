@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/electric-current-running-wild/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Electric Current Running Wild](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-current-running-wild/) |
+| **Get License** | [Official Music Licensing for Electric Current Running Wild](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-current-running-wild/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The midnight hour is closing on the town
+> I feel the heavy static pouring down
+> A spark is jumping like a reckless child
+> There's an electric current running wild
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
