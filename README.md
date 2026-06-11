@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/electric-current-running-wild/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Electric Current Running Wild](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-current-running-wild/) |
+| **Get License** | [License this song: Electric Current Running Wild](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-current-running-wild/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7f506e8d7592c6e7cddce85697e228d6cf794451c44e236b80a9d8edb66d1b00` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
